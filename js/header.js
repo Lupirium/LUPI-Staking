@@ -15,10 +15,10 @@ _CONTRACT_DATA[_NETWORK_ID] = {
             address: '0x0784F7f12F14f34b7874544E20Ee6f0DD7d62d5f',
         },
         tenDays: {
-            address: '0x0784F7f12F14f34b7874544E20Ee6f0DD7d62d5f'
+            address: '0xFcFb0b9F56F192Fd4cCc94C98f8571a8F73675a6'
         },
         thirtyTwoDays: {
-            address: '0x0784F7f12F14f34b7874544E20Ee6f0DD7d62d5f'
+            address: '0x0cb1D36fd81e5Bb5347e286c9745E618dEa3F499'
         },
         ninetyDays: {
             address: '0x0784F7f12F14f34b7874544E20Ee6f0DD7d62d5f'
